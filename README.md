@@ -8,6 +8,10 @@
 
 ### Connect with me:
 
+<a href="https://github.com/Cosmray" >
+  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1051/1051275.png" />
+</a>
+
 <a href="https://steamcommunity.com/id/cosmray" >
   <img height="32" width="32" src="https://vectorified.com/images/steam-icon-transparent-8.png" />
 </a>
