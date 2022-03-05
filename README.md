@@ -9,11 +9,19 @@
 ### Connect with me:
 
 <a href="https://github.com/Cosmray" >
-  <img height="32" width="32" src="https://p7.hiclipart.com/preview/947/829/149/github-computer-icons-logo-github.jpg" />
+  <img height="32" width="32" src="https://pngimg.com/uploads/github/github_PNG58.png" />
 </a>
 
 <a href="https://steamcommunity.com/id/cosmray" >
-  <img height="32" width="32" src="https://www.pinclipart.com/picdir/middle/100-1003109_new-steam-steam-logo-png-clipart.png" />
+  <img height="32" width="32" src="https://vectorified.com/images/steam-icon-transparent-8.png" />
+</a>
+
+<a href="https://www.reddit.com/user/Cosmray/" >
+  <img height="32" width="32" src="https://www.vectorico.com/download/social_media/Reddit-Icon.png" />
+</a>
+
+<a href="https://www.reddit.com/user/Cosmray/" >
+  <img height="32" width="32" src="https://www.vectorico.com/download/social_media/Reddit-Icon.png" />
 </a>
 
 <a href="https://www.reddit.com/user/Cosmray/" >
