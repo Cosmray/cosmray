@@ -5,14 +5,15 @@
 - 🥅 2022 Goals: Learn C and C++
 - ⚡ Fun fact: I love computers
 - 🔭 My discord tag - Cosmray#6916
+hi <pre>dfd</pre>lolo
 
 ### Connect with me:
 
 <a href="https://github.com/Cosmray" >
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1051/1051275.png" />
-</a><pre>
+</a>
 
-</pre><a href="https://steamcommunity.com/id/cosmray" >
+<a href="https://steamcommunity.com/id/cosmray" >
   <img height="32" width="32" src="https://clipground.com/images/steam-logo-png-3.png" />
 </a>
 
