@@ -10,5 +10,6 @@
 
 [![website](./img/globe-light.svg)](https://github.com/Cosmray/)
 [![website](e)](https://steamcommunity.com/id/cosmray)
+<img height="32" width="32" src="https://steamcommunity.com/id/cosmray/Steam.svg" />
 
 ![Cosmray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cosmray&show_icons=true&theme=radical)
