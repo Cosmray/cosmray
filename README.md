@@ -13,11 +13,11 @@
 </a>
 
 <a href="https://steamcommunity.com/id/cosmray" >
-  <img height="32" width="32" src="https://vectorified.com/images/steam-icon-transparent-8.png" />
+  <img height="32" width="32" src="https://www.flaticon.com/premium-icon/steam_3670233?term=steam&page=1&position=8&page=1&position=8&related_id=3670233&origin=search" />
 </a>
 
 <a href="https://www.reddit.com/user/Cosmray/" >
-  <img height="32" width="32" src="https://www.vectorico.com/download/social_media/Reddit-Icon.png" />
+  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968908.png" />
 </a>
 
 ---
