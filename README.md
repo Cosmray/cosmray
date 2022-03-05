@@ -8,11 +8,16 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://github.com/Cosmray/)
-[![website](e)](https://steamcommunity.com/id/cosmray)
+<a href="https://github.com/Cosmray" >
+  <img height="32" width="32" src="https://p7.hiclipart.com/preview/947/829/149/github-computer-icons-logo-github.jpg" />
+</a>
 
 <a href="https://steamcommunity.com/id/cosmray" >
-  <img height="32" width="32" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/77c46e0c-3538-4799-9cc7-8ae6308605fa/d7ujcvz-bb696641-0c72-4583-b66c-77997a69dc8e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi83N2M0NmUwYy0zNTM4LTQ3OTktOWNjNy04YWU2MzA4NjA1ZmEvZDd1amN2ei1iYjY5NjY0MS0wYzcyLTQ1ODMtYjY2Yy03Nzk5N2E2OWRjOGUucG5nIn1dXX0.e6RzzCxzqveTsr4-IgL3DwvXFi3HmjXc3ZeVyl8MVNI" />
+  <img height="32" width="32" src="https://www.pinclipart.com/picdir/middle/100-1003109_new-steam-steam-logo-png-clipart.png" />
+</a>
+
+<a href="https://www.reddit.com/user/Cosmray/" >
+  <img height="32" width="32" src="https://www.vectorico.com/download/social_media/Reddit-Icon.png" />
 </a>
 
 ---
