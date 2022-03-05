@@ -11,5 +11,4 @@
 [![website](./img/globe-light.svg)](https://github.com/Cosmray/)
 [![website](./img/globe-dark.svg)](https://steamcommunity.com/id/cosmray)
 
-[![Cosmray's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmray)](https://github.com/anuraghazra/github-readme-stats)
-[![Cosmray's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)]
+[![Cosmray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cosmray&show_icons=true&theme=tokyonight)]
