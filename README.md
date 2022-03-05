@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://steamcommunity.com/id/cosmray" >
-  <img height="32" width="32" src="https://cdn-icons.flaticon.com/png/512/2397/premium/2397830.png?token=exp=1646464655~hmac=4c8b55080d666a2a1b29310c23c3f151" />
+  <img height="32" width="32" src="https://clipground.com/images/steam-logo-png-3.png" />
 </a>
 
 <a href="https://www.reddit.com/user/Cosmray/" >
