@@ -4,8 +4,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn C and C++
 - ⚡ Fun fact: I love computers
-- 🔭 My discord tag - Cosmray#6916
-hi <pre>dfd</pre>lolo
+- 🔭 My discord tag - <pre>Cosmray#6916</pre>
 
 ### Connect with me:
 
