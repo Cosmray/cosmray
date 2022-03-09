@@ -20,8 +20,8 @@
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968908.png" />
 </a>
 
-<a href="https://twitter.com/cosmray" >
-  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/145/145812.png" />
+<a href="https://www.gog.com/u/Cosmray." >
+  <img height="32" width="32" src="https://flippfly.com/wp-content/uploads/2015/02/gog-logo-dark.png" />
 </a>
 
 
