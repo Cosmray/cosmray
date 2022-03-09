@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://www.gog.com/u/Cosmray." >
-  <img height="32" width="32" src="https://flippfly.com/wp-content/uploads/2015/02/gog-logo-dark.png" />
+  <img height="32" width="32" src="https://icon-library.com/images/gog-galaxy_32083.png" />
 </a>
 
 
