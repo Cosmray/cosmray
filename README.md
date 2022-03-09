@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://www.gog.com/u/Cosmray." >
-  <img height="32" width="32" src="https://vectorified.com/images/gog-icon-27.png" />
+  <img height="32" width="32" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/929b47fd-3705-4267-9855-7ecfec8eae15/d5hbcaq-168d98bf-fd8c-4d02-bdc7-771ad9dac93c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi85MjliNDdmZC0zNzA1LTQyNjctOTg1NS03ZWNmZWM4ZWFlMTUvZDVoYmNhcS0xNjhkOThiZi1mZDhjLTRkMDItYmRjNy03NzFhZDlkYWM5M2MucG5nIn1dXX0.5nnANrfPxqse8Qkrk27BWQSPBKB_fAnHBZfqw-V1y-Y" />
 </a>
 
 
