@@ -1,6 +1,6 @@
 # Hi there, I'm Cosmray 👋 
 
-- 🌱 I'm 16 years old
+- 🌱 I'm 17 years old
 - 👯 I’m looking forward to collaborate with other content creators
 - 🥅 2022 Goals: Learn C and C++
 - ⚡ Fun fact: I love computers
